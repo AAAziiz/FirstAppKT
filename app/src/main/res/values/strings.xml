@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="welcome">Welcome Sign Up to continue</string>
+    <string name="enter">Type your address</string>
+    <string name="pass">Type your Password</string>
+    <string name="pass2">Retype your password</string>
+    <string name="hi">HELLO</string>
+    <string name="already">Already registred Sign In</string>
+    <string name="not">Not Registred Yet!!Sign Up</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="view"> View all tagged cards or tags </string>
+    <string name="title_activity_write">WriteActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="id">First Id</string>
+    <string name="send">Send User number or name</string>
+    <string name="sendmail">Click here to send mail</string>
+    <string name="call">Click here to call</string>
+    <string name="cal">Call</string>
+    <string name="sms">Click here to send SMS</string>
+    <string name="smms">Send SMS</string>
+    <string name="option">Other options!!!</string>
+    <string name="required">required</string>
+
+
+    <string name="loading">Loading data ...</string>
+    <string name="empty">Empty Name</string>
+</resources>
